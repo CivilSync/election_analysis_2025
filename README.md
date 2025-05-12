@@ -42,13 +42,13 @@ Das Projekt umfasst folgende Schwerpunkte:
 
 ## 🗂️ Repository-Struktur
 
-📁 /data/ → Beispiel- oder synthetische Datensätze
-📁 /notebooks/ → Jupyter Notebooks zur Analyse
-📁 /personas/ → Visualisierte Wähler*innen-Personas
-📁 /materialien/ → Entwürfe von Flyern, Plakaten etc.
-📁 /docs/ → Projektdokumentation, Präsentationen
-📄 README.md → Projektübersicht
-📄 LICENSE → Lizenzinformationen
+ - 📁 /data/ → Beispiel- oder synthetische Datensätze
+ - 📁 /notebooks/ → Jupyter Notebooks zur Analyse
+ - 📁 /personas/ → Visualisierte Wähler*innen-Personas
+ - 📁 /materialien/ → Entwürfe von Flyern, Plakaten etc.
+ - 📁 /docs/ → Projektdokumentation, Präsentationen
+ - 📄 README.md → Projektübersicht
+ - 📄 LICENSE → Lizenzinformationen
 
 ---
 
