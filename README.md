@@ -57,7 +57,7 @@ Das Projekt umfasst folgende Schwerpunkte:
 | Name        | Rolle                    |
 |-------------|--------------------------|
 | Felix Regler | Project Manager         |
-| Tobias Fuge | Senior Data Scientist  |
+| Tobias Fuhge | Senior Data Scientist  |
 | Tom Weber  | Junior Data Scientist  |
 | Johannes Wolf   | Junior Data Scientist  |
 | Gina Grünen  | Junior Data Scientist  |
