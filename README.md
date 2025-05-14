@@ -1,5 +1,3 @@
-# WDSKI_SOSE25-Wahldatenanalyse
-
 # 🗳️ Kommunalwahl 2026 – Datenbasierte Wähleranalyse & zielgerichtete Kommunikation
 
 **Projekt im Rahmen des Moduls Projektmanagement**  
