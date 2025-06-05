@@ -1,0 +1,101 @@
+post_id,text,themen_tags,emotion,tonalitaet,autor_typ,plattform
+0,Post #0: Thema Wirtschaft,['sicherheit'],Dringlichkeit,Neutral,Journalist/in,Instagram
+1,Post #1: Thema Wirtschaft,"['wirtschaft', 'sicherheit', 'bildung']",Hoffnung,Positiv,Politiker/in,Facebook
+2,Post #2: Thema Bildung,['umwelt'],Optimismus,Neutral,Think Tank,LinkedIn
+3,Post #3: Thema Bildung,"['sicherheit', 'gesundheit']",Hoffnung,Neutral,Think Tank,LinkedIn
+4,Post #4: Thema Digitalisierung,"['migration', 'wirtschaft']",Sicherheit,Positiv,Journalist/in,Facebook
+5,Post #5: Thema Gesundheit,['digitalisierung'],Sicherheit,Informativ,Journalist/in,X
+6,Post #6: Thema Umwelt,"['familie', 'sicherheit', 'umwelt']",Skepsis,Positiv,Journalist/in,X
+7,Post #7: Thema Digitalisierung,"['bildung', 'digitalisierung', 'umwelt']",Hoffnung,Neutral,NGO,X
+8,Post #8: Thema Wirtschaft,['wirtschaft'],Skepsis,Fordernd,Partei,LinkedIn
+9,Post #9: Thema Digitalisierung,['digitalisierung'],Sicherheit,Neutral,NGO,X
+10,Post #10: Thema Wirtschaft,"['migration', 'sicherheit', 'digitalisierung']",Dringlichkeit,Neutral,Think Tank,LinkedIn
+11,Post #11: Thema Gesundheit,"['bildung', 'digitalisierung']",Sicherheit,Positiv,Politiker/in,Instagram
+12,Post #12: Thema Umwelt,"['gesundheit', 'migration']",Hoffnung,Neutral,Partei,X
+13,Post #13: Thema Bildung,"['familie', 'bildung', 'digitalisierung']",Skepsis,Neutral,Politiker/in,X
+14,Post #14: Thema Migration,['sicherheit'],Optimismus,Aktivistisch,Think Tank,LinkedIn
+15,Post #15: Thema Digitalisierung,['migration'],Optimismus,Aktivistisch,Think Tank,Facebook
+16,Post #16: Thema Umwelt,['migration'],Dringlichkeit,Aktivistisch,Politiker/in,Facebook
+17,Post #17: Thema Gesundheit,"['familie', 'sicherheit']",Sicherheit,Informativ,Politiker/in,Facebook
+18,Post #18: Thema Wirtschaft,"['sicherheit', 'gesundheit', 'digitalisierung']",Sicherheit,Positiv,Politiker/in,X
+19,Post #19: Thema Gesundheit,['familie'],Hoffnung,Fordernd,Think Tank,Instagram
+20,Post #20: Thema Wirtschaft,"['sicherheit', 'gesundheit', 'digitalisierung']",Optimismus,Informativ,Journalist/in,Instagram
+21,Post #21: Thema Migration,"['migration', 'sicherheit']",Optimismus,Positiv,Politiker/in,X
+22,Post #22: Thema Familie,['wirtschaft'],Sicherheit,Fordernd,Partei,Instagram
+23,Post #23: Thema Umwelt,['wirtschaft'],Hoffnung,Aktivistisch,Think Tank,Facebook
+24,Post #24: Thema Migration,['familie'],Optimismus,Neutral,NGO,X
+25,Post #25: Thema Gesundheit,['bildung'],Sicherheit,Aktivistisch,NGO,X
+26,Post #26: Thema Familie,"['familie', 'umwelt', 'wirtschaft']",Dringlichkeit,Positiv,Partei,X
+27,Post #27: Thema Umwelt,"['bildung', 'sicherheit', 'wirtschaft']",Hoffnung,Positiv,Journalist/in,Facebook
+28,Post #28: Thema Bildung,['umwelt'],Sicherheit,Positiv,Politiker/in,Instagram
+29,Post #29: Thema Sicherheit,"['familie', 'wirtschaft', 'sicherheit']",Dringlichkeit,Informativ,Think Tank,LinkedIn
+30,Post #30: Thema Bildung,"['gesundheit', 'wirtschaft']",Hoffnung,Positiv,Politiker/in,LinkedIn
+31,Post #31: Thema Digitalisierung,"['gesundheit', 'bildung']",Hoffnung,Positiv,Think Tank,Facebook
+32,Post #32: Thema Gesundheit,"['digitalisierung', 'gesundheit', 'umwelt']",Dringlichkeit,Neutral,NGO,Instagram
+33,Post #33: Thema Familie,['gesundheit'],Dringlichkeit,Fordernd,Politiker/in,LinkedIn
+34,Post #34: Thema Bildung,['familie'],Optimismus,Positiv,Partei,Facebook
+35,Post #35: Thema Umwelt,['bildung'],Dringlichkeit,Aktivistisch,Journalist/in,LinkedIn
+36,Post #36: Thema Familie,['gesundheit'],Hoffnung,Neutral,Partei,LinkedIn
+37,Post #37: Thema Umwelt,"['sicherheit', 'gesundheit']",Skepsis,Fordernd,Journalist/in,LinkedIn
+38,Post #38: Thema Familie,['bildung'],Sicherheit,Neutral,Politiker/in,Facebook
+39,Post #39: Thema Umwelt,"['digitalisierung', 'umwelt', 'gesundheit']",Optimismus,Aktivistisch,Politiker/in,Instagram
+40,Post #40: Thema Umwelt,"['wirtschaft', 'gesundheit', 'familie']",Hoffnung,Informativ,Journalist/in,Facebook
+41,Post #41: Thema Bildung,"['wirtschaft', 'sicherheit']",Dringlichkeit,Informativ,NGO,Facebook
+42,Post #42: Thema Wirtschaft,"['digitalisierung', 'migration']",Dringlichkeit,Fordernd,Think Tank,Instagram
+43,Post #43: Thema Sicherheit,"['migration', 'digitalisierung']",Sicherheit,Aktivistisch,Partei,X
+44,Post #44: Thema Wirtschaft,['familie'],Optimismus,Informativ,Partei,Facebook
+45,Post #45: Thema Wirtschaft,"['bildung', 'sicherheit', 'migration']",Dringlichkeit,Fordernd,Partei,Facebook
+46,Post #46: Thema Bildung,"['sicherheit', 'wirtschaft']",Skepsis,Informativ,Politiker/in,X
+47,Post #47: Thema Umwelt,"['sicherheit', 'digitalisierung', 'umwelt']",Dringlichkeit,Fordernd,Partei,Facebook
+48,Post #48: Thema Wirtschaft,"['migration', 'familie', 'gesundheit']",Optimismus,Neutral,Think Tank,X
+49,Post #49: Thema Bildung,"['sicherheit', 'familie', 'bildung']",Sicherheit,Positiv,Think Tank,Facebook
+50,Post #50: Thema Reisen,"['sport', 'tiere']",Neugier,Locker,Blogger,Facebook
+51,Post #51: Thema Fahrrad,['familie'],Freude,Positiv,Privatperson,LinkedIn
+52,Post #52: Thema Musik,['musik'],Entspannung,Locker,Verein,X
+53,Post #53: Thema Kunst,"['kunst', 'tiere']",Freude,Inspirierend,Verein,Facebook
+54,Post #54: Thema Tiere,['familie'],Entspannung,Inspirierend,Privatperson,Instagram
+55,Post #55: Thema Kunst,"['tiere', 'familie']",Freude,Positiv,Influencer,Facebook
+56,Post #56: Thema Kunst,['tiere'],Neugier,Locker,Blogger,X
+57,Post #57: Thema Fahrrad,"['kunst', 'reisen']",Entspannung,Inspirierend,Privatperson,Facebook
+58,Post #58: Thema Reisen,"['sport', 'essen']",Freude,Inspirierend,Verein,Instagram
+59,Post #59: Thema Fahrrad,"['sport', 'reisen']",Entspannung,Locker,Influencer,Facebook
+60,Post #60: Thema Reisen,"['tiere', 'musik']",Neugier,Positiv,Blogger,X
+61,Post #61: Thema Hobby,['fahrrad'],Neugier,Locker,Influencer,X
+62,Post #62: Thema Mode,['familie'],Freude,Positiv,Verein,Facebook
+63,Post #63: Thema Sport,"['reisen', 'sport']",Freude,Locker,Influencer,X
+64,Post #64: Thema Mode,"['fahrrad', 'tiere']",Freude,Inspirierend,Privatperson,Instagram
+65,Post #65: Thema Essen,['essen'],Freude,Inspirierend,Blogger,Instagram
+66,Post #66: Thema Kunst,"['fahrrad', 'musik']",Entspannung,Inspirierend,Privatperson,LinkedIn
+67,Post #67: Thema Reisen,['reisen'],Freude,Locker,Verein,Facebook
+68,Post #68: Thema Familie,['essen'],Neugier,Inspirierend,Influencer,Instagram
+69,Post #69: Thema Musik,['kunst'],Neugier,Positiv,Blogger,Instagram
+70,Post #70: Thema Familie,"['mode', 'tiere']",Neugier,Locker,Blogger,Instagram
+71,Post #71: Thema Hobby,['essen'],Neugier,Positiv,Privatperson,Facebook
+72,Post #72: Thema Hobby,"['essen', 'mode']",Freude,Locker,Verein,Facebook
+73,Post #73: Thema Familie,"['mode', 'hobby']",Freude,Locker,Influencer,Instagram
+74,Post #74: Thema Hobby,['essen'],Freude,Inspirierend,Blogger,Facebook
+75,Post #75: Thema Reisen,['sport'],Freude,Positiv,Influencer,Facebook
+76,Post #76: Thema Familie,"['fahrrad', 'kunst']",Freude,Positiv,Privatperson,LinkedIn
+77,Post #77: Thema Reisen,"['reisen', 'fahrrad']",Neugier,Locker,Verein,X
+78,Post #78: Thema Musik,"['musik', 'mode']",Neugier,Positiv,Blogger,Instagram
+79,Post #79: Thema Reisen,['fahrrad'],Freude,Locker,Influencer,X
+80,Post #80: Thema Essen,"['musik', 'mode']",Entspannung,Positiv,Privatperson,X
+81,Post #81: Thema Reisen,"['tiere', 'essen']",Neugier,Inspirierend,Verein,Instagram
+82,Post #82: Thema Familie,"['tiere', 'familie']",Freude,Inspirierend,Privatperson,Instagram
+83,Post #83: Thema Kunst,['fahrrad'],Freude,Positiv,Influencer,X
+84,Post #84: Thema Sport,"['sport', 'fahrrad']",Neugier,Inspirierend,Privatperson,X
+85,Post #85: Thema Musik,['mode'],Freude,Locker,Influencer,LinkedIn
+86,Post #86: Thema Sport,['essen'],Freude,Positiv,Verein,Instagram
+87,Post #87: Thema Mode,"['hobby', 'familie']",Neugier,Positiv,Blogger,Facebook
+88,Post #88: Thema Mode,['fahrrad'],Freude,Inspirierend,Influencer,Facebook
+89,Post #89: Thema Fahrrad,['reisen'],Entspannung,Locker,Verein,X
+90,Post #90: Thema Fahrrad,"['hobby', 'familie']",Entspannung,Positiv,Privatperson,Facebook
+91,Post #91: Thema Reisen,['tiere'],Freude,Positiv,Blogger,Facebook
+92,Post #92: Thema Kunst,"['familie', 'hobby']",Entspannung,Positiv,Privatperson,X
+93,Post #93: Thema Reisen,"['essen', 'familie']",Entspannung,Positiv,Influencer,Facebook
+94,Post #94: Thema Kunst,"['tiere', 'sport']",Freude,Locker,Blogger,Instagram
+95,Post #95: Thema Musik,['hobby'],Entspannung,Inspirierend,Verein,Facebook
+96,Post #96: Thema Essen,"['kunst', 'sport']",Entspannung,Locker,Influencer,Instagram
+97,Post #97: Thema Musik,"['musik', 'kunst']",Freude,Positiv,Blogger,Facebook
+98,Post #98: Thema Reisen,['reisen'],Entspannung,Locker,Verein,Facebook
+99,Post #99: Thema Tiere,"['musik', 'sport']",Freude,Positiv,Blogger,LinkedIn
