@@ -88,10 +88,7 @@ Das Projekt umfasst folgende Schwerpunkte:
 
 - Gesamtbudget: **65.000 €**
 - Projektzeitraum: **40 Personentage**
-- Beispielhafte Stundensätze:
-  - PM: 2.500 €
-  - Senior DS: 2.000 €
-  - Junior DS: 1.000 €
+
 
 ---
 
