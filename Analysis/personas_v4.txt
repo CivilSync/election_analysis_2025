@@ -1,96 +1,304 @@
 
+--- Persona-Profil für Cluster 0 ---
+Durchschnittsalter: 46.6
+Häufigste(r) geschlecht: weiblich
+Häufigste(r) region: Hessen
+Häufigste(r) politische_haltung: progressiv
+Top 3 gewaehlte_partei:
+  SPD: 36
+  CDU: 25
+  Grüne: 20
+Häufigste(r) wahlfrequenz: immer
+Häufigste(r) wichtigstes_wahlthema: Klima
+Top 4 Hashtags im Cluster: ['#bildungfüralle', '#uni', '#wissen', '#lernen']
+Anzahl Nutzer im Cluster: 203
+Geschlechterverteilung:
+geschlecht
+weiblich    103
+männlich    100
+Name: count, dtype: int64
+Regionen:
+region
+Hessen     41
+Hamburg    38
+Bayern     36
+NRW        36
+Sachsen    29
+Berlin     23
+Name: count, dtype: int64
+Wichtigste Wahlthemen:
+wichtigstes_wahlthema
+Klima         41
+Bildung       39
+Sicherheit    32
+Gesundheit    32
+Migration     31
+Steuern       28
+Name: count, dtype: int64
+Ø politisches Engagement: 5.06
 
-### **Cluster 0**
+--- Persona-Profil für Cluster 1 ---
+Durchschnittsalter: 47.3
+Häufigste(r) geschlecht: weiblich
+Häufigste(r) region: Hamburg
+Häufigste(r) politische_haltung: konservativ
+Top 3 gewaehlte_partei:
+  SPD: 34
+  CDU: 25
+  FDP: 19
+Häufigste(r) wahlfrequenz: immer
+Häufigste(r) wichtigstes_wahlthema: Gesundheit
+Top 4 Hashtags im Cluster: ['#bandlife', '#vinyl', '#jamsession', '#beats']
+Anzahl Nutzer im Cluster: 160
+Geschlechterverteilung:
+geschlecht
+weiblich    97
+männlich    63
+Name: count, dtype: int64
+Regionen:
+region
+Hamburg    35
+NRW        32
+Hessen     25
+Sachsen    24
+Berlin     22
+Bayern     22
+Name: count, dtype: int64
+Wichtigste Wahlthemen:
+wichtigstes_wahlthema
+Gesundheit    31
+Steuern       30
+Sicherheit    28
+Bildung       25
+Klima         24
+Migration     22
+Name: count, dtype: int64
+Ø politisches Engagement: 4.89
 
-* **Persona**: Lara, 20, Studentin aus Hessen, engagiert sich für Klimathemen, teilt Bildungsinhalte auf Social Media.
-* **Mobilisierungskonzept**:
-  **Kampagne „Deine Stimme für morgen“**
+--- Persona-Profil für Cluster 2 ---
+Durchschnittsalter: 45.9
+Häufigste(r) geschlecht: männlich
+Häufigste(r) region: Bayern
+Häufigste(r) politische_haltung: konservativ
+Top 3 gewaehlte_partei:
+  SPD: 30
+  CDU: 24
+  Grüne: 17
+Häufigste(r) wahlfrequenz: immer
+Häufigste(r) wichtigstes_wahlthema: Bildung
+Top 4 Hashtags im Cluster: ['#marathon', '#basketball', '#fussball', '#skaten']
+Anzahl Nutzer im Cluster: 153
+Geschlechterverteilung:
+geschlecht
+männlich    79
+weiblich    74
+Name: count, dtype: int64
+Regionen:
+region
+Bayern     30
+Sachsen    30
+Hamburg    29
+Berlin     24
+Hessen     20
+NRW        20
+Name: count, dtype: int64
+Wichtigste Wahlthemen:
+wichtigstes_wahlthema
+Bildung       31
+Klima         30
+Sicherheit    26
+Gesundheit    25
+Steuern       24
+Migration     17
+Name: count, dtype: int64
+Ø politisches Engagement: 5.16
 
-  * Kurze Videos von jungen Klimaaktivist\:innen in Hessen, die erklären, warum Wählen konkret fürs Klima wichtig ist.
-  * Aktionen an Unis: Info-Stände mit QR-Codes zum Wahl-O-Mat.
-  * Hashtag-Aktion: #LernenFürsKlima → Verknüpfung von Bildung & Klimaschutz.
+--- Persona-Profil für Cluster 3 ---
+Durchschnittsalter: 47.5
+Häufigste(r) geschlecht: männlich
+Häufigste(r) region: Sachsen
+Häufigste(r) politische_haltung: liberal
+Top 3 gewaehlte_partei:
+  SPD: 33
+  CDU: 21
+  AfD: 19
+Häufigste(r) wahlfrequenz: immer
+Häufigste(r) wichtigstes_wahlthema: Klima
+Top 4 Hashtags im Cluster: ['#wanderlust', '#citytrip', '#meerliebe', '#abenteuer']
+Anzahl Nutzer im Cluster: 181
+Geschlechterverteilung:
+geschlecht
+männlich    93
+weiblich    88
+Name: count, dtype: int64
+Regionen:
+region
+Sachsen    37
+Bayern     36
+Hessen     30
+Berlin     28
+Hamburg    27
+NRW        23
+Name: count, dtype: int64
+Wichtigste Wahlthemen:
+wichtigstes_wahlthema
+Klima         39
+Steuern       37
+Sicherheit    35
+Bildung       26
+Migration     25
+Gesundheit    19
+Name: count, dtype: int64
+Ø politisches Engagement: 4.59
 
----
+--- Persona-Profil für Cluster 4 ---
+Durchschnittsalter: 45.4
+Häufigste(r) geschlecht: weiblich
+Häufigste(r) region: Bayern
+Häufigste(r) politische_haltung: progressiv
+Top 3 gewaehlte_partei:
+  SPD: 52
+  CDU: 45
+  Grüne: 20
+Häufigste(r) wahlfrequenz: immer
+Häufigste(r) wichtigstes_wahlthema: Gesundheit
+Top 4 Hashtags im Cluster: ['#engagement', '#gerechtigkeit', '#klimapolitik', '#wahlen']
+Anzahl Nutzer im Cluster: 225
+Geschlechterverteilung:
+geschlecht
+weiblich    115
+männlich    110
+Name: count, dtype: int64
+Regionen:
+region
+Bayern     41
+Hamburg    40
+NRW        39
+Berlin     36
+Hessen     35
+Sachsen    34
+Name: count, dtype: int64
+Wichtigste Wahlthemen:
+wichtigstes_wahlthema
+Gesundheit    41
+Steuern       39
+Klima         39
+Sicherheit    38
+Bildung       36
+Migration     32
+Name: count, dtype: int64
+Ø politisches Engagement: 4.92
 
-### **Cluster 1**
+--- Persona-Profil für Cluster 5 ---
+Durchschnittsalter: 47.5
+Häufigste(r) geschlecht: weiblich
+Häufigste(r) region: Hamburg
+Häufigste(r) politische_haltung: konservativ
+Top 3 gewaehlte_partei:
+  SPD: 116
+  CDU: 107
+  Grüne: 71
+Häufigste(r) wahlfrequenz: immer
+Häufigste(r) wichtigstes_wahlthema: Migration
+Top 4 Hashtags im Cluster: ['#fussball', '#skaten', '#basketball', '#bildungfüralle']
+Anzahl Nutzer im Cluster: 705
+Geschlechterverteilung:
+geschlecht
+weiblich    359
+männlich    346
+Name: count, dtype: int64
+Regionen:
+region
+Hamburg    128
+Sachsen    120
+NRW        119
+Bayern     113
+Hessen     113
+Berlin     112
+Name: count, dtype: int64
+Wichtigste Wahlthemen:
+wichtigstes_wahlthema
+Migration     138
+Klima         122
+Bildung       114
+Steuern       112
+Gesundheit    111
+Sicherheit    108
+Name: count, dtype: int64
+Ø politisches Engagement: 4.79
 
-* **Persona**: Lisa, 22, Auszubildende in Hamburg, hört gerne Vinyl, politisch eher zurückhaltend, aber Gesundheitsfragen betreffen sie direkt.
-* **Mobilisierungskonzept**:
-  **Kampagne „Gesundheit ist deine Bühne“**
+--- Persona-Profil für Cluster 6 ---
+Durchschnittsalter: 47.2
+Häufigste(r) geschlecht: weiblich
+Häufigste(r) region: Berlin
+Häufigste(r) politische_haltung: zentristisch
+Top 3 gewaehlte_partei:
+  SPD: 34
+  CDU: 27
+  FDP: 16
+Häufigste(r) wahlfrequenz: immer
+Häufigste(r) wichtigstes_wahlthema: Sicherheit
+Top 4 Hashtags im Cluster: ['#konzert', '#chor', '#musikliebe', '#beats']
+Anzahl Nutzer im Cluster: 168
+Geschlechterverteilung:
+geschlecht
+weiblich    90
+männlich    78
+Name: count, dtype: int64
+Regionen:
+region
+Berlin     39
+Sachsen    31
+Hessen     29
+NRW        24
+Hamburg    24
+Bayern     21
+Name: count, dtype: int64
+Wichtigste Wahlthemen:
+wichtigstes_wahlthema
+Sicherheit    38
+Steuern       29
+Bildung       28
+Klima         27
+Gesundheit    25
+Migration     21
+Name: count, dtype: int64
+Ø politisches Engagement: 4.76
 
-  * Interviews mit jungen Musiker\:innen, die über mentale Gesundheit sprechen.
-  * Pop-up-Konzerte mit Wahlinfo in Clubs / auf Musikfestivals.
-  * Hashtag-Aktion: #SoundDerZukunft – Musik & Wahl verbinden.
-
----
-
-### **Cluster 2**
-
-* **Persona**: Thomas, 52, Berufsschullehrer aus Bayern, sportlich aktiv, konservativ geprägt, besorgt um das Bildungssystem.
-* **Mobilisierungskonzept**:
-  **Kampagne „Zukunft lehren – Zukunft wählen“**
-
-  * Flyer an Sportplätzen & Bildungseinrichtungen, Fokus auf solide Bildungs- und Familienpolitik.
-  * Testimonials von Lehrer\:innen, die aufzeigen, wie Bildung durch Wahlen beeinflusst wird.
-  * Sportvereine als Multiplikatoren gewinnen.
-
----
-
-### **Cluster 3**
-
-* **Persona**: Jonas, 22, aus Sachsen, reist viel, interessiert sich für Umwelt und persönliche Freiheit.
-* **Mobilisierungskonzept**:
-  **Kampagne „Klima kennt keine Grenzen“**
-
-  * Instagram-Reels über Orte, die durch Klimawandel bedroht sind.
-  * Kooperation mit Travel-Influencer\:innen, die zur Wahl aufrufen.
-  * Hashtag-Aktion: #ReiseMitVerantwortung – Reise & Verantwortung verbinden.
-
----
-
-### **Cluster 4**
-
-* **Persona**: Miriam, 32, Sozialarbeiterin aus Bayern, progressiv, kämpft für soziale Gerechtigkeit und Gesundheit.
-* **Mobilisierungskonzept**:
-  **Kampagne „Engagement zählt“**
-
-  * Straßenaktionen & Nachbarschaftsgespräche mit anderen Engagierten.
-  * Info-Kampagnen auf Social Media mit kurzen „Warum ich wähle“-Statements.
-  * Hashtag-Aktion: #MeinWortZählt – Mitbestimmung & Gesundheit verbinden.
-
----
-
-### **Cluster 5**
-
-* **Persona**: Kathrin, 32, Bürokauffrau aus Hamburg, konservativ, sportbegeistert, kritisch gegenüber Migration.
-* **Mobilisierungskonzept**:
-  **Kampagne „Stabile Zukunft – Starke Stimme“**
-
-  * Plakate & Social-Media-Posts mit Fokus auf Ordnung, Sicherheit & klare Regeln.
-  * Sportevents mit Infoständen zur Wahlbeteiligung.
-  * Dialog-Formate: „Was bewegt dich?“ – mit lokalen Politiker\:innen.
-
----
-
-### **Cluster 6**
-
-* **Persona**: Selin, 20, Studentin aus Berlin, musikalisch aktiv, unentschlossen, zentristisch, sorgt sich um Sicherheit.
-* **Mobilisierungskonzept**:
-  **Kampagne „Sichere Bühne für alle“**
-
-  * Events in Musikschulen & Jugendzentren mit Infoangeboten zu Sicherheitskonzepten.
-  * Storytelling über persönliche Freiheit & Sicherheit im Alltag.
-  * Hashtag-Aktion: #LautFürSicherheit
-
----
-
-### **Cluster 7**
-
-* **Persona**: Jana, 22, Informatikstudentin in Berlin, technikaffin, konservativ, will gute Bildung und digitale Innovation.
-* **Mobilisierungskonzept**:
-  **Kampagne „Bildung. Digital. Deine Wahl.“**
-
-  * Online-Kampagne mit Coding-Challenges, deren Lösungen auf Wahlthemen aufbauen.
-  * Videos von Professor\:innen & Tech-Entrepreneurs, die den Zusammenhang von Wahl & Bildung erklären.
-  * Hashtag-Aktion: #CodeDeineZukunft
-
+--- Persona-Profil für Cluster 7 ---
+Durchschnittsalter: 45.5
+Häufigste(r) geschlecht: weiblich
+Häufigste(r) region: Berlin
+Häufigste(r) politische_haltung: konservativ
+Top 3 gewaehlte_partei:
+  SPD: 39
+  CDU: 25
+  Grüne: 22
+Häufigste(r) wahlfrequenz: immer
+Häufigste(r) wichtigstes_wahlthema: Bildung
+Top 4 Hashtags im Cluster: ['#digitalisierung', '#blockchain', '#ki', '#robotik']
+Anzahl Nutzer im Cluster: 205
+Geschlechterverteilung:
+geschlecht
+weiblich    106
+männlich     99
+Name: count, dtype: int64
+Regionen:
+region
+Berlin     37
+Hessen     36
+Hamburg    36
+NRW        36
+Sachsen    33
+Bayern     27
+Name: count, dtype: int64
+Wichtigste Wahlthemen:
+wichtigstes_wahlthema
+Bildung       39
+Migration     37
+Gesundheit    36
+Klima         36
+Sicherheit    31
+Steuern       26
+Name: count, dtype: int64
+Ø politisches Engagement: 4.95
