@@ -67,9 +67,9 @@ Das Projekt umfasst folgende Schwerpunkte:
 | Bereich       | Status  |
 |---------------|---------|
 | Projektstart  | ✅ abgeschlossen |
-| Datenakquise  | 🟡 in Arbeit     |
-| Analyse       | 🔴 noch nicht gestartet |
-| Kommunikation | 🟢 geplant       |
+| Datenakquise  | ✅ abgeschlossen |
+| Analyse       | ✅ abgeschlossen |
+| Kommunikation | ✅ abgeschlossen |
 
 *Aktualisiert am: 12. Mai 2025*
 
