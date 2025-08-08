@@ -71,7 +71,7 @@ Das Projekt umfasst folgende Schwerpunkte:
 | Analyse       | ✅ abgeschlossen |
 | Kommunikation | ✅ abgeschlossen |
 
-*Aktualisiert am: 12. Mai 2025*
+*Aktualisiert am: 25. 07. 2025*
 
 ---
 
